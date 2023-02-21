@@ -28,7 +28,7 @@ I'm a passionate blockchain developer with over 5 years of experience in program
 ## Contact 📧
 
 - Email: [kiadr9372@gmail.com](mailto:kiadr9372@gmail.com)
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/lorenzo-garcia-506088238)](https://www.linkedin.com/in/lorenzo-garcia-506088238)
+- LinkedIn: [https://www.linkedin.com/in/lorenzo-garcia-506088238](https://www.linkedin.com/in/lorenzo-garcia-506088238)
 
 ## Open to Work 👨‍💻
 

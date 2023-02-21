@@ -5,32 +5,30 @@ I'm a passionate blockchain developer with over 5 years of experience in program
 ## Experience 🚀
 
 - **Blockchain Developer** at HearVerse Company (2023 - Present)
-  - Contributed to the development of a decentralized exchange platform using Rust and TypeScript
+  - Contributed to the development of a Chain platform using Rust and Substrate
   - Implemented smart contract functionality and integrated various cryptocurrency wallets
   - Developed unit tests and performed code reviews
 
-- **Full-Stack Developer** at ABC Startup (2016 - 2018)
-  - Worked on a Node.js and React-based web application for a travel booking platform
-  - Implemented RESTful APIs and integrated various third-party services
-  - Developed responsive UI components and optimized website performance
+- **Blockchain Developer** at PolkaNaut Startup (2022 - Present)
+  - Contributed to the development of a Chain platform using Rust and Substrate
+  - Implemented smart contract functionality and integrated various cryptocurrency wallets
+  - Developed unit tests and performed code reviews
 
 ## Projects 📦
 
-- [My Awesome Blockchain](https://github.com/my-awesome-blockchain): A decentralized blockchain platform built using Rust and TypeScript. It's designed to be fast, secure, and scalable, with features like smart contracts, a native cryptocurrency, and a consensus algorithm based on proof of stake.
+- [Music Chain](https://github.com/HearVerse/music-chain): A decentralized blockchain platform built using Rust and Substrate. It's designed to be fast, secure, and scalable, with features like smart contracts, a native cryptocurrency, and a consensus algorithm based on proof of stake.
 
-- [My Awesome DApp](https://github.com/my-awesome-dapp): A decentralized application built on top of My Awesome Blockchain. It's a simple voting app that allows users to vote on different proposals.
 
 ## Skills 💻
 
-- **Programming languages:** Rust, TypeScript, JavaScript, Node.js, Python
-- **Frameworks and libraries:** React, Express, Web3.js, Substrate
-- **Tools and platforms:** Git, GitHub, Docker, Kubernetes, AWS
+- **Programming languages:** Rust, TypeScript, JavaScript, Node.js , Solidty
+- **Frameworks and libraries:** Rocket, SQLX, PostgreSQL, Express, Web3.js, Substrate
+- **Tools and platforms:** Git, GitHub, Docker, AWS
 
 ## Contact 📧
 
-- Email: [your-email-address@example.com](mailto:your-email-address@example.com)
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-linkedin-profile-url/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- Email: [kiadr9372@gmail.com](mailto:kiadr9372@gmail.com)
+- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/lorenzo-garcia-506088238)](https://www.linkedin.com/in/lorenzo-garcia-506088238)
 
 ## Open to Work 👨‍💻
 
@@ -38,8 +36,8 @@ I'm open to new job opportunities in the blockchain space! If you're looking for
 
 ## GitHub Stats 📊
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kianoush-Dortaj&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kianoush-Dortaj&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

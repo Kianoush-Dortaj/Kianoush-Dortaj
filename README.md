@@ -21,7 +21,6 @@
 
 - [NFT Market Palce ](https://github.com/Kianoush-Dortaj/substrate_nft): A NFT Market Place platform built using Rust and Substrate. It's designed to be fast, secure, and scalable, with features like smart contracts, a native cryptocurrency, and a consensus algorithm based on proof of Authority ( POA ).
 
-https://github.com/Kianoush-Dortaj/substrate_nft
 
 
 ## Skills 💻

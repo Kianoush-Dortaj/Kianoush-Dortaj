@@ -1,4 +1,4 @@
-# Hi there, I'm [Kianoush Dortaj]! 👋
+# Hi there, I'm [ Kianoush Dortaj ]! 👋
 
  I'm a Blockchain Developer with over 5 years of experience in programming in Rust, Substrate, and Solidity. I'm passionate about building decentralized applications and exploring the potential of blockchain technology. My focus is on developing high-quality, scalable, and secure solutions for the decentralized world.
 

@@ -5,7 +5,7 @@
 
 ## Experience 🚀
 
-- **Rust Developer** Freelance (2023 - Present)
+- **Rust Developer** Freelance - Exchange Paltform (2023 - Present)
   - Convert Crypto to Crpto Wallet
   - Convert Crypto To Fiat
   - Withdraw Fiat

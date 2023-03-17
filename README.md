@@ -5,6 +5,12 @@
 
 ## Experience 🚀
 
+- **Rust Developer** Freelance (2023 - Present)
+  - Convert Crypto to Crpto Wallet
+  - Convert Crypto To Fiat
+  - Withdraw Fiat
+  - Transfer Crypto to other Networks
+
 - **Blockchain Developer** at HearVerse Company (2023 - Present)
   - Contributed to the development of a Chain platform using Rust and Substrate
   - Implemented smart contract functionality and integrated various cryptocurrency wallets

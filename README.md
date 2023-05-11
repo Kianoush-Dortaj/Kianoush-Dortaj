@@ -25,7 +25,7 @@
 
 - [Exchange PLatform](https://github.com/Kianoush-Dortaj/exchange): Exchange Website with For Convert Crypto to Crypto , Crypto to Fiat and Fiat to crypto also Withdraw Crypto and send crypto tokens to other networks . 
 
-- [Music Chain](https://github.com/HearVerse/music-chain): A decentralized blockchain platform built using Rust and Substrate. It's designed to be fast, secure, and scalable, with features like smart contracts, a native cryptocurrency, and a consensus algorithm based on proof of stake.
+- [Music Chain](https://github.com/HearVerse/music-chain): A decentralized blockchain platform built using Rust and Substrate. It's designed to be fast, secure, and scalable, with features like smart contracts, a native cryptocurrency, and a consensus algorithm based on proof of stake. Developed a [Music Chain Library](ttps://www.npmjs.com/package/hear-verse) that provides an easy-to-use interface for interacting with the Music Chain platform. This library allows developers to easily connect to the Music Chain, create and manage accounts, transfer native tokens, create DEX, and more.
 
 - [NFT Market Palce ](https://github.com/Kianoush-Dortaj/substrate_nft): A NFT Market Place platform built using Rust and Substrate. It's designed to be fast, secure, and scalable, with features like smart contracts, a native cryptocurrency, and a consensus algorithm based on proof of Authority ( POA ).
 

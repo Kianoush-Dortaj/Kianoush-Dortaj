@@ -54,4 +54,4 @@ I'm open to new job opportunities in the blockchain space! If you're looking for
 
 ## Top Languages 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kianoush-Dortaj&layout=compact&theme=dracula)](https://github.com/Kianoush-Dortaj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kianoush-Dortaj&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kianoush-Dortaj)

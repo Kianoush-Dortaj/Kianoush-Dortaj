@@ -42,8 +42,8 @@
 ## Contact 📧
 
 - Email: [kiadr9372@gmail.com](mailto:kiadr9372@gmail.com)
-- LinkedIn:[Kianoush Dortaj](https://www.linkedin.com/in/kianoush-dortaj-506088238)
-- Medium:[Medium](https://medium.com/@kiadr9372)
+- LinkedIn: [Kianoush Dortaj](https://www.linkedin.com/in/kianoush-dortaj-506088238)
+- Medium: [Medium](https://medium.com/@kiadr9372)
 
 ## Open to Work 👨‍💻
 

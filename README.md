@@ -42,7 +42,8 @@
 ## Contact 📧
 
 - Email: [kiadr9372@gmail.com](mailto:kiadr9372@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/lorenzo-garcia-506088238](https://www.linkedin.com/in/lorenzo-garcia-506088238)
+- LinkedIn:(https://www.linkedin.com/in/kianoush-dortaj-506088238)
+- Medium:(https://medium.com/@kiadr9372)
 
 ## Open to Work 👨‍💻
 

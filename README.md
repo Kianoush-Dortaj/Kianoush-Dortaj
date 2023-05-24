@@ -16,7 +16,7 @@
   - Implemented smart contract functionality and integrated various cryptocurrency wallets
   - Developed unit tests and performed code reviews
 
-- **Blockchain Developer** at PolkaNaut Startup (2022 - Present)
+- **Blockchain Developer** at PolkaNaut Startup (2022 - 2023)
   - Contributed to the development of a Chain platform using Rust and Substrate
   - Implemented smart contract functionality and integrated various cryptocurrency wallets
   - Developed unit tests and performed code reviews
